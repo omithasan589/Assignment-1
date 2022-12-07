@@ -1,0 +1,276 @@
+*{ 
+padding: 0;
+ margin: 0; 
+box-sizing: border-box; } 
+.body{ 
+font-family: 'Poppins',sans-serif ;}
+.one{
+  background-image:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)5%),url('Images/donation10.jpg');
+    width: 100%;
+    background-position: 100% 1%; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    position: relative;
+}
+.h1{font-size: 90%;
+height: 100vh;
+  text-align: center;
+  margin-left: 2%;
+  color: #ffffff;
+  padding-top: 0%;
+}
+.h5{width: 57%; 
+margin-left: 23%; 
+margin-top: 1%;
+font-size: 10px; 
+color: white;}
+.ore{
+  text-align: center;
+  tab-size: 30px;
+}
+.orn{
+  text-align-last: center;
+  padding: 0px 30px;
+  font-size: 70%;
+  width: 50%;
+  color:#8D918D;
+  margin-left: 25%;
+}
+.dev{
+  text-align: center;
+}
+.a{
+ font-size: 20px; 
+ border-radius: 3px; 
+ background-color:#FBFCFC;
+ border: none;
+ padding: 25px 20px;
+ margin-top: 8%;}
+.b{ 
+  font-size: 20px;
+  border-radius:3px;
+  background-color:#FFEBEE;
+  color: #F44336;
+  border: 2px solid#F44336;
+  padding: 25px 9px;
+  margin-top: 8%;
+ }
+.c{
+font-size: 20px;
+  border-radius:3px;
+  background-color:#FBFCFC;
+  border: none;
+  padding: 25px 9px;
+  margin-top: 8%;
+}
+.d{
+font-size: 20px;
+  border-radius:3px;
+  background-color: #FBFCFC;
+  border: none;
+  padding: 25px 9px;
+  margin-top: 8%;
+}
+.e{
+font-size: 20px;
+  border-radius:3px;
+  background-color: #FBFCFC;
+  border: none;
+  padding: 25px 9px;
+  margin-top:8% }
+.amount{
+  text-align: center;
+}
+.main{
+  text-align: center;
+}
+.text1{
+  font-size: 43px;
+  padding: 120px 140px 300px;
+  color: white;
+}
+.text2{width:50%;
+margin-left: 25%; 
+margin-top: -29%;
+font-size: 70%;
+color: white;
+min-height: 7vh;
+ }
+.batt1{
+background-color: #E74C3C;
+padding: 2px 5px;
+text-align: center;
+text-transform: capitalize;
+border-radius: 3px;
+color: #fffafa;
+text-decoration: none;
+margin-left: 45%; 
+position: 100%;
+font-size: 70%;
+}
+.batt{ 
+  margin-top: -20px;
+  text-align: cover;
+  text-transform: capitalize;
+   background-color:#E74C3C;
+   text-decoration: none;
+   color: #fffafa;
+   font-size: 70%;
+   margin-left:45% ;
+   border-radius: 3px;
+   position: 10%;
+   padding: 3px 5px;
+   
+ }
+.wwe{
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+  font-size: 70%;
+  color:#8D918D;}
+.onee{
+  margin-left: 5%;
+  background-color:#EBF4FA;
+  font-size: 20px;
+}
+.rr{
+  margin-left: 5%;
+}
+.wwq{
+   display: flex;
+   width: 33%
+   background-position: 200%;
+ }
+.img{
+  margin-left: 2%;
+  margin-top: 10%;
+}
+.tto{
+margin-left: 4%;
+  background-color:#F9EBEA;
+  font-size: 20px;
+}
+.qw{
+width: 70%;
+  font-size: 60%;
+  color:#8D918D;
+  margin-left: %;
+  padding: 10px;
+}
+.tthre{
+  margin-left: 4%;
+  background-color:#FDEBD0;
+  font-size: 20px;
+  margin-right: 5%;
+}
+.tt{
+  width: 100%;
+  height: 80%;
+  margin-left:5%;
+  margin-top: 4%;
+}
+.yt{
+  width: 90%;
+  margin-right: -15%;
+}
+.tr{
+  width: 75%;
+}
+.xx{
+  width: 80%;
+  display: flex;
+ margin-left:6%;
+}
+.ww{
+  margin-left:-6% ;
+  width: 90%;
+  height: 140%;
+  margin-right: 5%;
+}
+.hh{
+  color:#8D918D;
+  margin-left: 2%;
+  margin-right: 1%;
+  font-size: 60%;
+  width: 60%;
+}
+.rp{
+background-color: #E74C3C;
+padding: 3px 5px;
+text-transform: capitalize;
+border-radius: 3px;
+color: #fffafa;
+text-decoration: none;
+margin-left: 11%; 
+position: 100%;
+font-size: 11px;
+}
+.vb{
+  width: 80%;
+  height: 140%;
+  margin-right: 5%;
+  margin-left: 9%;
+}
+.for{
+  display: flex;
+}
+.mn{
+  margin-right: 5% ;
+  width: 70%;
+  height: 50%;
+  margin-left:-%;
+  margin-top: 4%;
+}
+.ty{
+  width: 43%;
+}
+.pi{
+background-color: #E74C3C;
+padding: 3px 5px;
+text-transform: capitalize;
+border-radius: 3px;
+color: #fffafa;
+text-decoration: none;
+margin-top: 50%;
+margin-left: 54%;
+position: 30%;
+font-size: 11px;
+}
+.dd{
+  text-align: center;
+}
+.de{
+  text-align: center;
+  color:#8D918D;
+  font-size: 16px;
+  padding: 2px;
+}
+.em{
+  margin-left: 22%;
+}
+.gh{
+  background-color:#FFF8DC ;
+  padding: 35px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.gg{
+  padding: 3px 5px;
+  font-size: 12px;
+  border-radius: 3px;
+  color: #fffafa;
+  background-color:#E74C3C;
+}
+.kl{
+font-family: 'Lobster', cursive;
+text-align: center;
+color:#E74C3C;
+}
+.yy{
+  background-color:#0C090A;
+  padding: 30px;
+}
+.ss{
+  text-align: center;
+  color:#FEFCFF;
+}
